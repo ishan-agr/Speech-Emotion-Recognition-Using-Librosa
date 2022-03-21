@@ -1,0 +1,7 @@
+This project aims to deliver a speech emotion recognition program using python's audio detection library Librosaa.
+The project uses a dataset named "Ravedess", which contains numerous audio clips of various actors expressing different types of emotions 
+such as "fear", "happy" ,"sad" etc.
+Using Librosa, the emotion from the actor's speech is detected.
+A histogram and a spectrogram have also been displayed for better analysis of the speeches.
+Furthermore, we can use the NLP classifier module of python along with some others, to calculate the efficiency of predictions made by the program
+for detecting emotions in the speeches.
